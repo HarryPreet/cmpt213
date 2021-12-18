@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b6b9abb-300b-45cf-a681-078a6fb55364" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aghgohJ5S5b2lkBvY2k3DFyaPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FileSystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileSystem.FileSystemMain" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileSystemMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6b9abb-300b-45cf-a681-078a6fb55364" name="Default Changelist" comment="" />
+      <created>1587163257459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587163257459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1762" height="323" key="GridCell.Tab.0.bottom" timestamp="1587165171928">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="323" key="GridCell.Tab.0.bottom/0.0.1805.1163@0.0.1805.1163" timestamp="1587165171928" />
+    <state width="1762" height="323" key="GridCell.Tab.0.center" timestamp="1587165171926">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="323" key="GridCell.Tab.0.center/0.0.1805.1163@0.0.1805.1163" timestamp="1587165171926" />
+    <state width="1762" height="323" key="GridCell.Tab.0.left" timestamp="1587165171926">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="323" key="GridCell.Tab.0.left/0.0.1805.1163@0.0.1805.1163" timestamp="1587165171926" />
+    <state width="1762" height="323" key="GridCell.Tab.0.right" timestamp="1587165171928">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="323" key="GridCell.Tab.0.right/0.0.1805.1163@0.0.1805.1163" timestamp="1587165171928" />
+    <state x="383" y="158" key="SettingsEditor" timestamp="1587163615726">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="383" y="158" key="SettingsEditor/0.0.1805.1163@0.0.1805.1163" timestamp="1587163615726" />
+    <state x="599" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1587165112634">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="599" y="408" key="com.intellij.ide.util.TipDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1587165112634" />
+  </component>
+</project>

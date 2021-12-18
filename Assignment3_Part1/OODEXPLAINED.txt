@@ -1,0 +1,25 @@
+Steps to OOD:
+
+1. We start with our GamePlay UI class which instantiates a Maze object.Further we handle error cases and cheat codes in this class.
+   It asks user for a move and does the required action. Basically, validates everything that user does.
+
+2. Then in our Maze class we represent our board as a sort of HashMap in which our key is the position of any cats, cheese, space, walls and mouse and our value is the character of these
+   respective game elements. The algorithm to make a maze will also be embedded in this class. 
+
+3. The maze will be drawn according to the HashMap. We will iterate through the map and display all the values at the keys taking care of formatting and the design of the maze.
+
+4. We would have a Cat class, a Mouse class, a Space class and a Cheese class that employs getters and setters for the position and symbol used to represent them. 
+
+5. Further, the Cat and Cheese class would also have a random move generator to assign move to a character.
+
+6. In the Maze class, we would instantiate objects of the game elements (Mouse, Cat etc.) and then respectively assign their position according to the maze algorithm in the HashMap.
+
+7. When user enters a valid move, we would change the position of mouse in the HashMap and then put a space to the prior position.
+
+8. And then when any Cheese gets collected, we would further generate randomly another Cheese element and put it onto Hashmap while also randomly moving Cat elements every time the Mouse moves.
+
+9. Finally, during the game the tiles which are not explored will remain as dot symbol while the tiles which are explored will display the element they contain.
+
+10. At the end we would display the entire maze to the user with no tiles hidden.
+
+Hence, implementing OOD for our game.

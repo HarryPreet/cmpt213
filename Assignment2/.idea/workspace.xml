@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db32cdd0-5708-4225-a035-4b5f59665a14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5eKHyFdiIwr3aFpBDxRTZkSnz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.PeerFeedbackProcessor">
+    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Manager" />
+      <module name="Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeerFeedbackProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.cmpt213.as2.PeerFeedbackProcessor" />
+      <module name="Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PeerFeedbackProcessor" />
+        <item itemvalue="Application.Manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db32cdd0-5708-4225-a035-4b5f59665a14" name="Default Changelist" comment="" />
+      <created>1580340316245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580340316245</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1160" y="299" key="#com.intellij.ide.util.MemberChooser" timestamp="1580697216786">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="1160" y="299" key="#com.intellij.ide.util.MemberChooser/0.0.1805.1163@0.0.1805.1163" timestamp="1580697216786" />
+    <state x="1018" y="366" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580727965702">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="1018" y="366" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1580727965702" />
+    <state x="619" y="302" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1580412390298">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="619" y="302" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1580412390298" />
+    <state x="480" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580505486350">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="480" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1580505486350" />
+    <state x="1084" y="333" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580505661366">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="1084" y="333" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1580505661366" />
+    <state x="1085" y="330" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580365343261">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="1085" y="330" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1580365343261" />
+    <state x="658" y="286" key="#xdebugger.evaluate" timestamp="1580441336807">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="658" y="286" key="#xdebugger.evaluate/0.0.1805.1163@0.0.1805.1163" timestamp="1580441336807" />
+    <state x="991" y="324" key="FileChooserDialogImpl" timestamp="1580340645982">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="991" y="324" key="FileChooserDialogImpl/0.0.1805.1163@0.0.1805.1163" timestamp="1580340645982" />
+    <state width="1762" height="397" key="GridCell.Tab.0.bottom" timestamp="1580729005668">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.0.bottom/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005668" />
+    <state width="1762" height="397" key="GridCell.Tab.0.center" timestamp="1580729005668">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.0.center/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005668" />
+    <state width="1762" height="397" key="GridCell.Tab.0.left" timestamp="1580729005668">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.0.left/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005668" />
+    <state width="1762" height="397" key="GridCell.Tab.0.right" timestamp="1580729005668">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.0.right/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005668" />
+    <state width="1762" height="397" key="GridCell.Tab.1.bottom" timestamp="1580729005669">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.1.bottom/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005669" />
+    <state width="1762" height="397" key="GridCell.Tab.1.center" timestamp="1580729005668">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.1.center/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005668" />
+    <state width="1762" height="397" key="GridCell.Tab.1.left" timestamp="1580729005668">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.1.left/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005668" />
+    <state width="1762" height="397" key="GridCell.Tab.1.right" timestamp="1580729005669">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="1762" height="397" key="GridCell.Tab.1.right/0.0.1805.1163@0.0.1805.1163" timestamp="1580729005669" />
+    <state x="767" y="157" key="SettingsEditor" timestamp="1580728004056">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="767" y="157" key="SettingsEditor/0.0.1805.1163@0.0.1805.1163" timestamp="1580728004056" />
+    <state width="909" height="589" key="XDebugger.FullValuePopup" timestamp="1580412379001">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state width="909" height="589" key="XDebugger.FullValuePopup/0.0.1805.1163@0.0.1805.1163" timestamp="1580412379001" />
+    <state x="1016" y="476" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580340685335">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="1016" y="476" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1805.1163@0.0.1805.1163" timestamp="1580340685335" />
+    <state x="645" y="212" key="refactoring.ChangeSignatureDialog" timestamp="1580436317435">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="645" y="212" key="refactoring.ChangeSignatureDialog/0.0.1805.1163@0.0.1805.1163" timestamp="1580436317435" />
+    <state x="565" y="256" width="672" height="678" key="search.everywhere.popup" timestamp="1580687945432">
+      <screen x="0" y="0" width="1805" height="1163" />
+    </state>
+    <state x="565" y="256" width="672" height="678" key="search.everywhere.popup/0.0.1805.1163@0.0.1805.1163" timestamp="1580687945432" />
+  </component>
+</project>
